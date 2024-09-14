@@ -1,0 +1,12 @@
+[submodule "PANGU/ThirdPart/spdlog"]
+	path = PANGU/ThirdPart/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "PANGU/ThirdPart/GLFW"]
+	path = PANGU/ThirdPart/GLFW
+	url = https://github.com/TheCherno/glfw
+[submodule "PANGU/ThirdPart/ImGui"]
+	path = PANGU/ThirdPart/ImGui
+	url = https://github.com/TheCherno/imgui
+[submodule "PANGU/ThirdPart/glm"]
+	path = PANGU/ThirdPart/glm
+	url = https://github.com/g-truc/glm
